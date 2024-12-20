@@ -1,0 +1,9 @@
+User route i define what kind of work use can do .list of work mention bellow
+1.user can register the account.
+2.if user create account then user can logged in.
+3.if user logged in then user can get-profile means user can view user profile.
+4.user also update profile.
+5.user can book appoinment .
+6.user can view appoinment details.
+7.user also cancel appoinment if needed.
+in user route user can
